@@ -3,12 +3,12 @@ kid: no no no!!
 me: ok. how about dots then?
 kid: dots?
 me: yeah. like a dot that you can create with a pencil on a paper sheet. is it really a dot?
-kid: yes dad, you just said that we can use a pencil to draw a dot
+kid: yes dad, you just said that we can use a pencil to draw a dot [hand on forehead]
 me: but what if you take a microscope and look at it. does it still look like a dot?
 kid: uh.. no.. it looks like a circle.
-kid: I know! I will create a very small dot. just barely touch the paper.
+kid: ooh, I know! I will create a very small dot. just barely touch the paper.
 me: ok. I will give you a more powerful microscope then. would you still see a dot?
-kid: oof. again a circle. dad, I'll just create a super very tiny dot.
+kid: oof. again a circle. dad, I'll just create a super very tiny dot then.
 me: it won't help because I will give you an even more powerful microscope.
 kid: dad, so we can't create a dot?
 me: nope. in our world we can't. we can create 3d objects only.
@@ -38,7 +38,7 @@ me: yep. if there are billions of them in such a small volume, then they are ver
 kid: yes?
 me: ok. so, in the factory where they are produced, they must be able to somehow put every transistor in the correct place, otherwise it might end up in a place of another transistor and they both won't work.
 kid: yes, how do they do that dad?
-me: we can talk about "how" some other time, ok? we need to be able to tell the machine that puts the transistors, where to put them. we can tell it the place using a point. it's kind of a "place".
+me: we can talk about "how" exactly some other time, ok? lets just say that we need to be able to tell the machine that puts the transistors, where to put them. we can tell it the place using a point. it's kind of a "place".
 kid: but if we look in a microscope we will still see something that is not a dot, right?
 me: correct. we can't create a dot, but we want to be able to make smaller and smaller transistors, and place them nearer and nearer to each other in the future.
 me: for that, we invented dots or points. we can think of a dot as a place. it is "infinitely" small. you can think of it that no matter which microscope you will use, the dot would always look like a dot. not a circle. this is not possible in the real world of course.
@@ -55,4 +55,6 @@ me: is it something that you can draw on paper?
 kid: I can draw a smiling man
 me: right. so mostly "happy" exists inside our head. in our brain. agree?
 kid: yyyeah.. kind of..
-me: I think that a dot exists too, but only in our head. in our brain. in our imagination. just like "happy". and that's ok.
+me: I think that a dot exists too, but only in our head. in our brain. in our imagination. just like "happy".
+kid: oooh. ok, I think I understand.
+me: good! so, a dot or a point is something that doesn't exist in the real world. it exists in our brain. and it's useful because we use it to build the brain of a computer. and actually for many other things as well where we need to put things in certain exact places.

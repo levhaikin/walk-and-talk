@@ -41,7 +41,7 @@ kid: yes, how do they do that dad?
 me: we can talk about "how" some other time, ok? we need to be able to tell the machine that puts the transistors, where to put them. we can tell it the place using a point. it's kind of a "place".
 kid: but if we look in a microscope we will still see something that is not a dot, right?
 me: correct. we can't create a dot, but we want to be able to make smaller and smaller transistors, and place them nearer and nearer to each other in the future.
-me: for that, we invented dots or points. a point is a place. it is "infinitely" small. you can think of it that no matter which microscope you will use, the dot would always look like a dot. not a circle. this is not possible in the real world of course.
+me: for that, we invented dots or points. we can think of a dot as a place. it is "infinitely" small. you can think of it that no matter which microscope you will use, the dot would always look like a dot. not a circle. this is not possible in the real world of course.
 kid: uuhh.. I dont' understand.
 me: do you think a dot exists?
 kid: no, because it's always a circle.
@@ -49,7 +49,10 @@ me: I think it does exist.
 kid: how?
 me: does "happy" exist?
 kid: ehh.. 
-me: you know what "happy" is, right? 
-
-that means that a dot or a point lives only in our imaginations. in our heads. it can't escape to the real world.
-kid: 
+me: is it something you can hold in your hand?
+kid: no..
+me: is it something that you can draw on paper?
+kid: I can draw a smiling man
+me: right. so mostly "happy" exists inside our head. in our brain. agree?
+kid: yyyeah.. kind of..
+me: I think that a dot exists too, but only in our head. in our brain. in our imagination. just like "happy". and that's ok.

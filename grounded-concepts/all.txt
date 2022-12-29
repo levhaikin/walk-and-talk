@@ -51,3 +51,5 @@ prediction
 bootstrap
 hard
 easy
+point of view (perspective)
+confidence

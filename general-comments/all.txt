@@ -5,3 +5,5 @@
   * ask what if we didn't have names. how would you ask your parent to buy cornflakes in the supermarket without using words that are names? beware, "yellow" is also a name!
   * can name be a picture? (yes - flags for example can be used as names of countries)
 * examples should be surprising so that they will be imprinted in memory for a long time.
+* good: imagine there is a ball laying on a chair. the chair is in the middle of the leavingroom. you stand by the window. it looks like a football, with black and white patches. now you move to the kitchen, and look at the ball again. but now you see that it's a bowl (for soup for example), it was just leaning on the back of the chair. but you see it standing in a different spot. what changed?
+* bad: a point of view is the position from which something or someone is observed.

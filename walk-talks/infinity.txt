@@ -10,4 +10,39 @@ me: right, it doesn't exist. numbers are infinite. they don't "stop" on coming.
 kid: aah. dad, I have a riddle: how can one be two and two be infinite?
 me: eeh..
 kid: one mirror is two "you" and two mirrors are infinite "you"!
-me: oh.. that's a cool riddle. good job!
+me: oh.. that's a cool riddle.
+me: say, can you pick a number that is greater than 0 but less than 5?
+kid: 4!
+me: ok. what about a number that is greater than zero but less than 2?
+kid: eeh, 1?
+me: right, ok. lets squeeze a bit more. now a number greater than zero but less than 1.
+kid: I don't know dad.. there are no number between zero and 1!
+me: right. there are no "whole" numbers. they are also called "integers". how much time does it take to brush your teeth?
+kid: it's veeery long! 15 minutes!
+me: ok, is it less than one hour?
+kid: yeah..
+me: is it greater than zero?
+kid: I guess so..
+me: ok, so we found something that is greater than zero and less than 1. remember how we call 15 minutes a "quarter" of an hour?
+kid: oh, yeah!
+me: quarter is a kind of a number. it's a fourth part of something, right? can you give an example of a quarter of something?
+kid: eeh, yeah, when you split an apple for me and my friends, you cut it into four pieces. so every piece is a quarter of the apple?
+me: exactly. so, now imagine a line one which we can put numbers. smaller numbers would be on the left, and larger number on the right. we put zero, then move a little to the right and write one, and the move more to the right and write "two" and so on.
+kid: uhm, i'm imagining that.
+me: ok, so where would you put a quarter?
+kid: between zero and one.
+me: in the middle?
+kid: yep
+me: what about half? where would you put that?
+kid: in the middle.. oh, quarter is half of half, so I will put it in the middle between zero and half!
+me: sounds good. are there more numbers between zero and one?
+kid: eeh..
+me: what about middle between zero and a quarter?
+kid: aahh.. yeah, it's half of a quarter!
+me: right. we can pick half of half of half and so on
+kid: but it's too small!
+me: right. infitiy can follow big numbers and also very small numbers.
+kid: oh.
+me: so, how many numbers are there between zero and one?
+kid: infinite??
+me: yep. we can also look at two numbers on the line, and try to put another dot between them. it would correspond to some number, which would be greater then the left number and less than the right number.

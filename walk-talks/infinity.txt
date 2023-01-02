@@ -1,1 +1,13 @@
-
+me: what is the greatest number?
+kid: google plex squared!
+me: lets take google plex squared and add 1 to it
+kid: then google plex squared squared!
+me: I can still take google plex squared squared and add 1 to it
+kid: eeh..
+me: do you think that a "largest number" exists?
+kid: no?
+me: right, it doesn't exist. numbers are infinite. they don't "stop" on coming.
+kid: aah. dad, I have a riddle: how can one be two and two be infinite?
+me: eeh..
+kid: one mirror is two "you" and two mirrors are infinite "you"!
+me: oh.. that's a cool riddle. good job!

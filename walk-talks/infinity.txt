@@ -16,7 +16,7 @@ kid: 4!
 me: ok. what about a number that is greater than zero but less than 2?
 kid: eeh, 1?
 me: right, ok. lets squeeze a bit more. now a number greater than zero but less than 1.
-kid: I don't know dad.. there are no number between zero and 1!
+kid: I don't know dad.. there are no numbers between zero and 1!
 me: right. there are no "whole" numbers. they are also called "integers". how much time does it take to brush your teeth?
 kid: it's veeery long! 15 minutes!
 me: ok, is it less than one hour?

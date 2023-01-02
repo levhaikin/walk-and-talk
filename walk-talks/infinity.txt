@@ -27,8 +27,8 @@ me: ok, so we found something that is greater than zero and less than 1. remembe
 kid: oh, yeah!
 me: quarter is a kind of a number. it's a fourth part of something, right? can you give an example of a quarter of something?
 kid: eeh, yeah, when you split an apple for me and my friends, you cut it into four pieces. so every piece is a quarter of the apple?
-me: exactly. so, now imagine a line one which we can put numbers. smaller numbers would be on the left, and larger number on the right. we put zero, then move a little to the right and write one, and the move more to the right and write "two" and so on.
-kid: uhm, i'm imagining that.
+me: exactly. so, now imagine a line on which we can put numbers. smaller numbers would be on the left, and larger number on the right. we put zero, then move a little to the right and write one, and then move more to the right and write "two" and so on.
+kid: uhm, ok.
 me: ok, so where would you put a quarter?
 kid: between zero and one.
 me: in the middle?
@@ -41,8 +41,15 @@ me: what about middle between zero and a quarter?
 kid: aahh.. yeah, it's half of a quarter!
 me: right. we can pick half of half of half and so on
 kid: but it's too small!
-me: right. infitiy can follow big numbers and also very small numbers.
+me: right. infinity can follow big numbers and also very small numbers.
 kid: oh.
 me: so, how many numbers are there between zero and one?
 kid: infinite??
-me: yep. we can also look at two numbers on the line, and try to put another dot between them. it would correspond to some number, which would be greater then the left number and less than the right number.
+me: yep. we can always look at two numbers on the line, and put another dot between them. it would correspond to some number, which would be greater than the left number and less than the right number.
+me: now imagine you are walking down a street. will you stop?
+kid: is it long? I will become thirsthy!
+me: right. imagine you are allowed to only walk that specific street. will you stop?
+kid: yeah, because I can't cross the street yet dad! [duh..]
+me: right. what about a street that is a circle. like "revivim" street?
+kid: aaah..
+me: yeah, a circle or a line that is connected to itself allows us to "not stop". that means that it can be traversed infinitely.

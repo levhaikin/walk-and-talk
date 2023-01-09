@@ -67,3 +67,5 @@ language
 government
 mistake
 process
+brand
+public opinion

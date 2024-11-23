@@ -50,9 +50,21 @@ me: I think that he could remember less things.
 kid: how?
 me: grand masters learn many different "positions". they remember them and study them. so, if one grand master wanted to describe a certain known position to another grand master, what do you think she would have to say?
 kid: where every piece is placed!
-me: but it's a known position. probably to both of them.
-kid: ah! the name of the position.
+me: but it's a familiar position. probably to both of them.
+kid: ah! so the name of the position!
 me: correct! so how many things to remember?
-kid: one! only the name!
-me: that's right. and that's probably the number of details that grand master had to remember in the first part of the experiment, because it contained a position that was a "regaulr" chess position. so maybe a combination of some known positions that the grand master has names for!
-kid: 
+kid: one! only the name! just one thing to remember!
+me: that's right. and that's probably the number of details that the grand master had to remember in the first part of the experiment, because it contained a position that was a "common" chess position. so maybe a combination of some known positions that the grand master has names for!
+kid: I get it! so in the second part, the grand master lost her advantage, because it was not a "common" position, so she had to try to remember all the pieces the same way the regular chess player had to.
+me: right again. so this entire thing shows that the memory is pretty much the same, and is pretty limitted in how many details it can store in a single short view.
+kid: so i'm like a grand master?
+me: well, not exactly, but you probably have the same memory capacity :)
+me: but let me ask you something else. what is a name then?
+kid: uh.. we call things by names.. I don't know how to explain it..
+me: what if you wanted to tell me that you want to go to the pool, but without saying the name "pool"?
+kid: hmm.. I'd say a place with water, that you can swim in.
+me: right. that's a lot of words instead of just one word "pool". right?
+kid: yes..
+me: we sort of "shrunk" many words into a single word, right?
+kid: I guess so..
+me: that's what names allow us to do. they allow us to shrink or compress many details into a single detail. and that's how we store things in our memories! and that's how we learn! that's what the grand master learns to do.

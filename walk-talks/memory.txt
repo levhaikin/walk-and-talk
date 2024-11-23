@@ -1,1 +1,58 @@
-
+me: lets talk about a certain experiment.
+kid: ..
+me: so, they took three people. one was a chess grand master, the other just a regular chess player, and the third one didn't know anything about chess, not even the pieces.
+kid: ok. what did they have to do?
+me: they were shown a board of chess. each board contained the exact same position, containing many pieces of black and white pieces.
+kid: that's not fair.
+me: I didn't tell you what they had to do yet.
+kid: they had to win in a few moves, right?
+me: nope. they had some time, I don't remember how much, maybe a minute, maybe less, to look at the board before it got wiped. then, they had to reconstruct it from memory.
+kid: oh.
+me: who do you think reconstructed better?
+kid: the grand master!
+me: yep, that's right.
+kid: then the one who knew how to play.
+me: correct again!
+kid: then the one who didn't know how to play.
+me: right. no surprises so far. everyhing predictble, right?
+kid: yeah.
+me: ok, now for the second part of the experiment.
+kid: there is a second part??
+me: yep. now listen. next, they setup a board, with pieces, but now, the pieces were very randomly put on the board. it was not like a real position that could have happen in a real game.
+kid: oh, like pawns at the beginning of the board?
+me: yeah, something like that.
+kid: [thinking].
+me: they again had some time to see the board, and then it was wiped and the had to reconstruct it again.
+kid: I know! Because it was not logical, the grand master didn't have any advantage, so they all didn't remember places of many pieces.
+me: correct!
+kid: [smiling]
+me: you correctly predicted the results of each part of the experiment. good job. but what is the conclusion?
+kid: that i'm smart!
+me: and very modest :) other than that?
+kid: uh, I don't know..
+me: it's related to human brain and memory.
+kid: that the memory of the grand master is better than the rest.
+me: but then why did the grand master perform so poorly in the second part of the experiment?
+kid: hmm.. then, the memory of the grand master is the same?
+me: probably so. but then, how did the grand master did so much better compared to the others, in the first part of the experiment?
+kid: I don't know..
+me: lets think about how many details did the first person had to remember. for example, if there was a black pawn in the right bottom corner.
+kid: then he had to remember three things: pawn, black, bottom corner.
+me: but he doesn't know what a "pawn" is!
+kid: oh.. then, he had to remember the shape of the rook, that it has a small "ball" at the top, and that it's pretty short, and that it looks like a human without hands :)
+me: right. so many details, right?
+kid: yes..
+me: what about the regular chess player?
+kid: three things: pawn, black, bottom corner.
+me: correct. what about the grand master?
+kid: also three things: pawn, black, bottom corner!
+me: I think that he could remember less things.
+kid: how?
+me: grand masters learn many different "positions". they remember them and study them. so, if one grand master wanted to describe a certain known position to another grand master, what do you think she would have to say?
+kid: where every piece is placed!
+me: but it's a known position. probably to both of them.
+kid: ah! the name of the position.
+me: correct! so how many things to remember?
+kid: one! only the name!
+me: that's right. and that's probably the number of details that grand master had to remember in the first part of the experiment, because it contained a position that was a "regaulr" chess position. so maybe a combination of some known positions that the grand master has names for!
+kid: 
